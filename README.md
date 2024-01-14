@@ -1,6 +1,3 @@
-In this project, let's build a **Rock Paper Scissors** by applying the concepts we have learned till now.
-
-### Refer to the image below:
 
 <br/>
 <div style="text-align: center;">
@@ -60,23 +57,7 @@ The app must have the following functionalities
     <img src="https://assets.ccbp.in/frontend/react-js/rock-paper-scissor/rules-image.png" alt="rules image" style="width:500px" />
     <br/>
 
-  - Game result based on choices
 
-    - When your choice is **paper** and the opponent choice is **rock**, then the result will be `YOU WON`
-    - When your choice is **scissors** and the opponent choice is **rock**, then the result will be `YOU LOSE`
-    - When your choice is **rock** and the opponent choice is **paper**, then the result will be `YOU LOSE`
-    - When your choice is **scissors** and the opponent choice is **paper**, then the result will be `YOU WON`
-    - When your choice is **rock** and the opponent choice is **scissors**, then the result will be `YOU WON`
-    - When your choice is **paper** and the opponent choice is **scissors**, then the result will be `YOU LOSE`
-    - When your choice and the opponent choice match, then the result will be `IT IS DRAW`
-
-    </details>
-
-- When the result is `YOU WON`, then the score should be incremented by one
-- When the result is `IT IS DRAW`, then there shouldn't be any change in the score
-- When the result is `YOU LOSE`, then the score should be decremented by one
-- When the **PLAY AGAIN** button is clicked, then the [Playing View](https://assets.ccbp.in/frontend/content/react-js/rock-paper-scissors-lg-playing-output.png) should be displayed
-
-</details>
+  
 
 
